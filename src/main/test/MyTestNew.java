@@ -1,3 +1,10 @@
 public class MyTestNew {
-    // new file for testing git
+
+    public static void main(String[] args) {
+
+        System.out.println("hello world");
+
+
+    }
+
 }
